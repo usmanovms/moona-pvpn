@@ -1,0 +1,11 @@
+{
+    "name": "moona-pvpn",
+    "description": "personal network configuration",
+    "env": {
+        "PASSWORD": {
+            "description": "PASSWORD",
+            "value": "fookyoubish"
+        }
+    },
+    "stack": "container"
+}
